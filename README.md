@@ -7,3 +7,4 @@
 - git games are now properly recorded to gamelog file
 - git player no longer allowed to play with 0 in bank
 - git fixed case where player would not win when CPU busted
+- git gave player busting highest priority of loss
