@@ -10,3 +10,4 @@
 - git gave player busting highest priority of loss
 - git added win/lose declaration to help player keep track
 - git added showhand function for hand object to shorten code
+- git consolidated file writing to gamelog at the end of each round to shorten code
