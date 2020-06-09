@@ -4,3 +4,4 @@
 - game records are recorded to a gamelog.txt file
  - git finished get english rank
  - git finished get english suit
+- git games are now properly recorded to gamelog file
