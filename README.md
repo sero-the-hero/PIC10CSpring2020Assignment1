@@ -9,3 +9,4 @@
 - git fixed case where player would not win when CPU busted
 - git gave player busting highest priority of loss
 - git added win/lose declaration to help player keep track
+- git added showhand function for hand object to shorten code
