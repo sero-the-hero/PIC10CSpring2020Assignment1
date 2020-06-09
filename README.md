@@ -3,3 +3,4 @@
 - The game ends once the player loses al of their money (starting at 100) or when the house/dealer loses 900 total
 - game records are recorded to a gamelog.txt file
  - git finished get english rank
+ - git finished get english suit
