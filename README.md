@@ -6,3 +6,4 @@
  - git finished get english suit
 - git games are now properly recorded to gamelog file
 - git player no longer allowed to play with 0 in bank
+- git fixed case where player would not win when CPU busted
