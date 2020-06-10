@@ -17,3 +17,4 @@
 - git added statements to indicate the game is over
 - git added gamenumber int counter to keep track of games played
 - git added lower and upper case to hit option
+- git player always drawys at least 1 card per game
