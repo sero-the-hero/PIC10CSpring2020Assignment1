@@ -19,3 +19,4 @@
 - git added lower and upper case to hit option
 - git player always drawys at least 1 card per game
 - git CPU draws while their total hnd value is less than 5.5
+- git added case in event of a tie
