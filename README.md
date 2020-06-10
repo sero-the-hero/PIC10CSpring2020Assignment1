@@ -14,3 +14,4 @@
 - git added reset hand member function to clear hand
 - git assigned proper 1/2 value to jack, horse and king cards
 - git CPU always draws at least 1 card
+- git added statements to indicate the game is over
